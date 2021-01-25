@@ -2,4 +2,4 @@
 
 Projeto 2 da Disciplina: SCC 240 – Bases de Dados - USP - ICMC
 
-Projeto sobre base de dados que abordou os seguintes tópicos: Modelagem usando ME-RX, Normalização, Três níveis conceituais de representação, Transação e Concorrência
+Projeto sobre modelagem de base de dados porém também abordou os seguintes tópicos: Três níveis conceituais de representação, Transação e Concorrência
